@@ -20,9 +20,9 @@ import {
 	Right
 } from 'native-base';
 
-import FormMessage from '../../../../components/FormMessage';
-import * as session from '../../../../services/session';
-import * as api from '../../../../services/api';
+import FormMessage from 'my-app/src/components/FormMessage';
+import * as session from 'my-app/src/services/session';
+import * as api from 'my-app/src/services/api';
 
 const styles = StyleSheet.create({
 	error: {

@@ -1,4 +1,4 @@
-import { fetchApi } from '../../services/api';
+import { fetchApi } from 'my-app/src/services/api';
 
 const endPoints = {
 	create: '/users',

@@ -1,4 +1,4 @@
-import store from '../../store';
+import store from 'my-app/src/store';
 
 import * as api from './api';
 import * as selectors from './selectors';

@@ -3,7 +3,7 @@
 import fetchival from 'fetchival';
 import _ from 'lodash';
 
-import * as sessionSelectors from '../../services/session/selectors';
+import * as sessionSelectors from 'my-app/src/services/session/selectors';
 import apiConfig from './config';
 
 export const exceptionExtractError = (exception) => {

@@ -21,9 +21,9 @@ import {
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
-import * as session from '../../../../services/session';
-import * as usersActionCreators from '../../../../data/users/actions';
-import * as usersSelectors from '../../../../data/users/selectors';
+import * as session from 'my-app/src/services/session';
+import * as usersActionCreators from 'my-app/src/data/users/actions';
+import * as usersSelectors from 'my-app/src/data/users/selectors';
 
 const styles = StyleSheet.create({
 	container: {

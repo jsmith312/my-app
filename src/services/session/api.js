@@ -1,6 +1,6 @@
 import { Buffer } from 'buffer';
-import { fetchApi } from '../../services/api';
-import apiConfig from '../../services/api/config';
+import { fetchApi } from 'my-app/src/services/api';
+import apiConfig from 'my-app/src/services/api/config';
 
 const endPoints = {
 	authenticate: '/users/auth',

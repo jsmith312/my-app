@@ -1,4 +1,4 @@
-import store from '../../store';
+import store from 'my-app/src/store';
 
 export const getAll = () => {
 	const { items } = store.getState().data.users;

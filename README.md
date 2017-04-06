@@ -3,3 +3,8 @@ Inspired by [this post](https://medium.com/@alexmngn/the-essential-boilerplate-t
 backend server can be found [here](https://github.com/jsmith312/my-server).
 
 Folder setup inspired by [this post](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.ce34x2leb)
+
+to get started: 
+`git clone https://github.com/jsmith312/user-auth-starter-app.git my-app`
+`cd my-app`
+`npm install && npm start`

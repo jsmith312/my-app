@@ -11,3 +11,5 @@ to get started:
 `cd my-app`
 
 `npm install && npm start`
+
+make sure the backend server from [here](https://github.com/jsmith312/my-server) is running.
